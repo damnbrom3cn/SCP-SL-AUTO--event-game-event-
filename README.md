@@ -1,4 +1,4 @@
-# SCP-SL-AUTO--event-game-event-
+# SCP-SL-AUTO--event game
 我做了一个exiled插件它可以让您服务器始终可以在没有玩家的情况下进行event小游戏的自动化，包括了玩家的投票系统，但是我不能保证它和你服务器的插件冲突
 此为自动化小游戏程序的插件
 你需要将它放在你的scpsl服务端的exiled文件的插件文件夹里面
